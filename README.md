@@ -1,4 +1,4 @@
-# immunoscope-training
+# IMMUNOSCOPE-Training
 
 This repository is a **training and methods demonstration project** focused on immune biomarker discovery and explainable machine-learning analysis for assessing cellular immunity following vaccination.
 
