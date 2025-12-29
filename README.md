@@ -25,6 +25,9 @@ The dataset was generated to reflect realistic biological variability, partial o
 - Use of interpretable machine-learning models in a biological context
 - Critical discussion of assumptions and limitations when working with simulated data
 
+## Results and Figures
+Key analysis figures (ROC curve, cytokine group comparisons, and model coefficients) are available in `results/figures/`.
+
 ## Limitations
 All data in this repository are **simulated for training purposes** and do not represent real clinical or experimental results. Conclusions drawn from this dataset are illustrative only and should not be interpreted as biological or diagnostic claims.
 
